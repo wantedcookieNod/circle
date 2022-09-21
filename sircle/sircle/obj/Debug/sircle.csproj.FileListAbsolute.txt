@@ -1,0 +1,13 @@
+c:\users\sima\documents\visual studio 2015\Projects\sircle\sircle\bin\Debug\sircle.exe.config
+c:\users\sima\documents\visual studio 2015\Projects\sircle\sircle\bin\Debug\sircle.exe
+c:\users\sima\documents\visual studio 2015\Projects\sircle\sircle\bin\Debug\sircle.pdb
+c:\users\sima\documents\visual studio 2015\Projects\sircle\sircle\obj\Debug\sircle.csprojResolveAssemblyReference.cache
+c:\users\sima\documents\visual studio 2015\Projects\sircle\sircle\obj\Debug\sircle.exe
+c:\users\sima\documents\visual studio 2015\Projects\sircle\sircle\obj\Debug\sircle.pdb
+F:\My codes\sircle\sircle\bin\Debug\sircle.exe.config
+F:\My codes\sircle\sircle\bin\Debug\sircle.exe
+F:\My codes\sircle\sircle\bin\Debug\sircle.pdb
+F:\My codes\sircle\sircle\obj\Debug\sircle.csprojAssemblyReference.cache
+F:\My codes\sircle\sircle\obj\Debug\sircle.csproj.CoreCompileInputs.cache
+F:\My codes\sircle\sircle\obj\Debug\sircle.exe
+F:\My codes\sircle\sircle\obj\Debug\sircle.pdb
